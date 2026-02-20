@@ -1,1 +1,12 @@
-
+button{
+    color: blue;
+}
+::backdrop{
+    color: black;
+}
+p{
+    color: antiquewhite;
+}
+.title{
+    color: dodgerblue;
+}
