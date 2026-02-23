@@ -1,12 +1,13 @@
 button{
     color: blue;
 }
-::backdrop{
-    color: black;
+
+body{
+    background-color:black;
 }
 p{
     color: antiquewhite;
 }
-.title{
+h1{
     color: dodgerblue;
 }
