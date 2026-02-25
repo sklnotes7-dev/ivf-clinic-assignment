@@ -11,6 +11,9 @@ p{
 h1{
     color: dodgerblue;
 }
+h2{
+    color: hotpink;
+}
 .scroll-box {
     width: 300px; /* Set the width of the box */
     height: 150px; /* Set the fixed height of the box */
