@@ -21,3 +21,6 @@ h2{
     overflow: auto; /* Add scrollbars only when content overflows */
     padding: 10px; /* Optional: Add some inner spacing */
 }
+h3{
+    color: aqua;
+}
